@@ -1,0 +1,10 @@
+com/example/bffservice/service/ExternalServiceClient.class
+com/example/bffservice/service/UserProfileService.class
+com/example/bffservice/model/UserProfile.class
+com/example/bffservice/BffServiceApplication.class
+com/example/bffservice/model/Order.class
+com/example/bffservice/controller/BFFController.class
+com/example/bffservice/model/User.class
+com/example/bffservice/model/OrderItemSummary.class
+com/example/bffservice/model/OrderSummary.class
+com/example/bffservice/model/OrderItem.class
